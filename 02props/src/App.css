@@ -1,0 +1,18 @@
+/* App container */
+.app-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+}
+
+/* Heading */
+.app-heading {
+  background-color: #4ade80; /* green-400 */
+  color: #000000;
+  padding: 16px;
+  border-radius: 12px;
+  margin-bottom: 16px;
+  font-size: 1.5rem;
+  font-weight: bold;
+}
