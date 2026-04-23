@@ -6,7 +6,7 @@ create components Login.jsx and Profile.jsx
 wrap children with UserContextProvider and set values in it
 useContext hook -> access the variables or function defined in contextProvider, in a component
 check if user exist or not using context
-load context provider and components in App.jsx
+load context provider and components in App.jsx (wrap with contextProvider )
 
 Login.jsx Component:
 
@@ -17,10 +17,4 @@ Login.jsx Component:
       <input type="text" placeholder="password" />
       <button onClick={handleSubmit}>Submit</button>
 </div>
-```
-
-Profile.jsx Component:
-
-```Javascript
-
 ```
