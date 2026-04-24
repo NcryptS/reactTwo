@@ -1,3 +1,14 @@
+```txt
+create Components Card
+pass value to props through component
+use notation to pass values:
+          props.value ,
+          destructure value ,
+          pass object/arrays defined in App.jsx ,
+          pass multiple values in component ,
+          pass default values in Card Component
+```
+
 # Card Component File:
 
 ```javascript
