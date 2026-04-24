@@ -1,2 +1,4 @@
+```txt
 counter button
-useEffect hook
+useState hook
+```

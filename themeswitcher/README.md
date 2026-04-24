@@ -1,3 +1,4 @@
+```txt
 load App.jsx
 create, provide and use context in theme.js in src/contexts (do all in a single file)
 use the context using custom hook (useTheme) and export it
@@ -10,6 +11,7 @@ import rule: if : export const Test , then in another file : import { Test } fro
 useTheme custom hook -> get values and functions of the context in ThemeBtn component and set it react to toggle input using
 check the change in mode in html tag in console
 set change in theme in tailwind css based on class -> tailwind config : darkMode: "class"
+```
 
 # ThemeBtn UI
 

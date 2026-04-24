@@ -1,3 +1,4 @@
+```txt
 useState hooks based on ui
 uses of useCallback hook and dependency array
 password generation
@@ -7,6 +8,9 @@ useEffect -> re-runs the function
 useCallback -> keep the function and variables in cache(for optimisation)
 useRef hook -> gets the refernce of a tag and helps with the manipuation using that reference
 copy to clipboard with specific range of password selection
+```
+
+# App.jsx
 
 ```JAVASCRIPT
 import { useState, useCallback, useEffect, useRef } from "react";
@@ -89,6 +93,8 @@ function App() {
 
 export default App;
 ```
+
+# App.css
 
 ```CSS
 body {

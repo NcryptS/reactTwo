@@ -1,3 +1,4 @@
+```txt
 load tailwind css
 create components
 install react-router-dom
@@ -14,6 +15,7 @@ handle "link" in footer for home and about
 useParams hook -> obtain and display data from url to ui
 get data from api (from github.com get the username and avatar of the user) and display it in "/github" url
 optimise the fetching of data from api using Loader and useLoaderData() hook.
+```
 
 ## Github and User component css
 

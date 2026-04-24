@@ -1,4 +1,4 @@
-Card Component File:
+# Card Component File:
 
 ```javascript
 <div className="card">
@@ -23,6 +23,8 @@ Card Component File:
   </div>
 </div>
 ```
+
+# Card.css
 
 ```CSS
 /* NFT Card Wrapper */
