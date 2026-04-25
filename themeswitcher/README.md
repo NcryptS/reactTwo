@@ -8,7 +8,7 @@ define function to remove any mode in html and add the themeMode variable in htm
 create Card and ThemeBtn components
 load components in App.jsx
 import rule: if : export const Test , then in another file : import { Test } from "./file";
-useTheme custom hook -> get values and functions of the context in ThemeBtn component and set it react to toggle input using
+useTheme custom hook -> get values and functions of the context in ThemeBtn component and set it react to toggle input using "e" event
 check the change in mode in html tag in console
 set change in theme in tailwind css based on class -> tailwind config : darkMode: "class"
 ```
