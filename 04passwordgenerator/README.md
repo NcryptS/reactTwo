@@ -1,13 +1,15 @@
 ```txt
-useState hooks based on ui
-uses of useCallback hook and dependency array
-password generation
-input of text
-onChange on range, checkbox input
 useEffect -> re-runs the function
 useCallback -> keep the function and variables in cache(for optimisation)
 useRef hook -> gets the refernce of a tag and helps with the manipuation using that reference
-copy to clipboard with specific range of password selection
+
+use useState hooks based on ui, initialize : length, numberAllowed, charAllowed, password
+put values on each tag
+put onChange on each tag(whereeven required)
+create function to copy password to clipboard upload click on copy button
+password generation function and setPassword to generated password
+create function that selects the text upon clicking copy for good ux
+
 ```
 
 # App.jsx
