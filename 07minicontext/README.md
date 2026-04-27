@@ -1,4 +1,6 @@
 ```txt
+onClick me agar function passed hai to usko, e.preventDefault se submit ko prevent karna hota hai
+
 prop passing is done one by one component by component which passes through the component that do not need the prop
 prop-drilling -> passing data directly to the component as global variable or function(done by contextApi hook, redux, rdx tookit)
 create UserContext in src/context
