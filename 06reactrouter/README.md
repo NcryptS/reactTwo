@@ -1,9 +1,11 @@
 ```txt
+a tag -> Link because "a" reloads entire page
+navLink -> extra functionality compared to Link
+useParams hook -> obtain and display data from url to ui
+
 load tailwind css
 create components
 install react-router-dom
-a tag -> Link because "a" reloads entire page
-navLink -> extra functionality compared to Link
 create Header.jsx
 navLink callback isActive -> css manipulation for active page (Header.jsx)
 create Footer.jsx
@@ -12,7 +14,6 @@ set up Layout.jsx file in src for route handling -> header, footer static and pa
 set up react router in main.jsx
 handle "to" in navLink after setting up router
 handle "link" in footer for home and about
-useParams hook -> obtain and display data from url to ui
 get data from api (from github.com get the username and avatar of the user) and display it in "/github" url
 optimise the fetching of data from api using Loader and useLoaderData() hook.
 ```
